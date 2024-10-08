@@ -1,7 +1,9 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Izlal Asa Rolista</h1>
 <br>
 
-    I'm a passionate data scientist with a keen interest in extracting insights from complex datasets. My journey began with a fascination for numbers and a desire to understand the world through data-driven analysis.
+    I'm a passionate data scientist with a keen interest in extracting insights from complex datasets. 
+    My journey began with a fascination for numbers and a desire to understand the world through 
+    data-driven analysis.
 
 
 <br>
