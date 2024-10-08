@@ -33,12 +33,12 @@
 
 
 ### Lets connect through:
-<a href="https://www.facebook.com/izlalasarolista/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.facebook.com/izlalasa/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://twitter.com/izlalasa"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/izlalasarolista/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
 
-[resume]: [https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing](https://docs.google.com/document/d/1DfBNAuZ-VuoBWtS_OVN68EAbkP_4QPmB/edit)
+[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing](https://docs.google.com/document/d/1DfBNAuZ-VuoBWtS_OVN68EAbkP_4QPmB/edit
 
 
