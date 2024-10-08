@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-- ✍ You can find my resume here [Resume]
+- ✍ You can find my resume here [[Resume]]
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me : izlalasa17@gmail.com
