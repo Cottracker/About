@@ -3,7 +3,9 @@
 
     I'm a passionate data scientist with a keen interest in extracting insights from complex datasets. 
     My journey began with a fascination for numbers and a desire to understand the world through 
-    data-driven analysis.
+    data-driven analysis. I'm seeking opportunities to contribute my skills to a dynamic team and work on 
+    projects that have a positive impact. My goal is to leverage data science to drive innovation, improve decision-making,
+    and solve problems.
 
 
 <br>
@@ -13,7 +15,7 @@
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: izlalasa17@gmail.com
+- 📫 Reach out to me : izlalasa17@gmail.com
 
 <br>
 
