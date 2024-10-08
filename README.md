@@ -41,4 +41,10 @@
 
 [resume]: https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/1721107560695-AS_DS27_Day4_Izlal-Asa-Rolista.pdf
 
+<div style="position: fixed; bottom: 0px; left: 10px;width:130px;height:160px;">
+<a href="http://permathic.blogspot.com/" 
+target="_blank"><img border="0" src="http://s.myniceprofile.com/myspacepic/692/th/69207.gif" 
+title="My widget" alt="animasi bergerak gif" />
+</a><small><center>
+<a href="http://azhardeditor.blogspot.com/2012/05/kumpulan-animasi-bergerak-yang-lucu-dan.html" target="_blank"></a></center></small></div>
 
