@@ -39,6 +39,6 @@
 
 
 
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing](https://docs.google.com/document/d/1DfBNAuZ-VuoBWtS_OVN68EAbkP_4QPmB/edit
+[resume]: https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/1721107560695-AS_DS27_Day4_Izlal-Asa-Rolista.pdf
 
 
