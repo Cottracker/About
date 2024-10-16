@@ -35,8 +35,8 @@
 
 ### Lets connect through:
 <a href="https://www.facebook.com/izlalasa/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/izlalasa"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/izlalasarolista/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/izlalasa"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50">
+<a href="https://www.linkedin.com/in/izlalasarolista/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"/></a>
 
 
 
